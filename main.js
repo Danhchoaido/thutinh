@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Cảm ơn em đã đến bên anhh những lúc anh cô đơn buồn tủi nhất.Cuộc sống thực sự chẳng có ý nghĩa gì nếu không có em. Em làm cho anh luôn cảm thấy đặc biệt và hoàn hảo. Anh chẳng biết nói gì ngoài lời cảm ơn em, anh rất yêu em💕"
+var letterContent ="Chào em bấy bì của anh. À thì hôm nay là ngày 1/8 ah hong biết gì hết nhưng nhờ tụi nó nói ah mới biết đây là ngày quốc tế bạn gái. Mới xin được cái code của ông anh lập trình nên viết cái này. Nhân việc hôm nay là ngày 1/8 ah không biết tặng em móng quà gì hết nên anh có vài lời để nói với em. Ah iu eim nhiều lắm, ah mong eim sẽ ở bên ah càng lâu càng tốt có thể là đến khi tụi mình bạc trắng cả đầu. Chúc em luôn mãi xinh đẹp như thiên thần trong mắt anh."
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
